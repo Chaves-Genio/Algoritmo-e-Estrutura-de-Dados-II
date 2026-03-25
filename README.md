@@ -23,4 +23,4 @@ dequeue - Remoção do elemento
 front - Consultar primeiro elemento
 isEmpty - Verificar se está vazia
 
-Os programas foram criados na linguagem de programação java
+Os programas foram criados na linguagem de programação java.

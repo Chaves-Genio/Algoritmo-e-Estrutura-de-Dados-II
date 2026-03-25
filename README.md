@@ -24,3 +24,5 @@ front - Consultar primeiro elemento
 isEmpty - Verificar se está vazia
 
 Os programas foram criados na linguagem de programação java.
+Requisitos para execução:
+jdk e um ID para a linguagem java.
